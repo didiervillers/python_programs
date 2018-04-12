@@ -1,2 +1,5 @@
-# python_programs
-Miscellaneous Python programs
+# Python programs
+Miscellaneous Python programs to help new (or old) coders.
+
+## Numpy
+
